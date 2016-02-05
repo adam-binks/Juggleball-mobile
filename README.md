@@ -13,6 +13,7 @@ Cool stuff I use:
 <li><a href="https://github.com/playgameservices/play-games-plugin-for-unity">Play Games Plugin for Unity</a> for achievements and leaderboards</li>
 <li>The wonderful <a href="http://dotween.demigiant.com/index.php">DOTween</a> for tweening. It's a life changer.</li>
 <li>A couple of Google's <a href="https://design.google.com/icons/">Material Icons</a> because I'm lazy ¯\_(ツ)_/¯ </li>
+<li>Unity Analytics and Unity Ads</li>
 </ul>
 
 Got any questions about Juggleball's code, my process or ideas for the game? Email me at <a href="mailto:jellyberg+Juggleball@gmail.com">jellyberg+Juggleball@gmail.com</a>
